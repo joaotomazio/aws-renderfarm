@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# start the LoadBalancer
+sudo java -jar /home/ec2-user/loadbalancer.jar &
